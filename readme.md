@@ -28,8 +28,16 @@ In the back-end:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 
-<!-- And in general:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
- -->
+### You can also find me here 👇
 
+<div>
+ <a href="https://instagram.com/_arthurando" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+ </a>
+ 
+ <a href="https://www.linkedin.com/in/arthur-sv/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+ </a>
+</div>
+<br>
 <hr>
